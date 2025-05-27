@@ -1,20 +1,20 @@
 # Java ATM Interface 🏧
 
-A sleek console-based ATM Interface built in Java, simulating banking operations like PIN verification, balance checks, withdrawals, and deposits. This project, assigned by our instructor **Fasika Abera** (LinkedIn), showcases Object-Oriented Programming (OOP) principles: encapsulation, inheritance, polymorphism, and abstraction. 🌟
+A sleek console-based ATM Interface built in Java, simulating banking operations like PIN verification, balance checks, withdrawals, and deposits. This project, assigned by our instructor **Fasika Abera**, showcases Object-Oriented Programming (OOP) principles: encapsulation, inheritance, polymorphism, and abstraction. 🌟
 
 ## 📑 Table of Contents
 
-- Overview ✨
-- Features 🚀
-- Project Structure 📂
-- OOP Concepts 🛠️
-- OOP Lessons Learned 📚
-- Prerequisites 🛠️
-- Setup 🔧
-- How to Run ▶️
-- Usage 💻
-- Group Members 👥
-- License 📜
+- [Overview](#overview-)
+- [Features](#features-)
+- [Project Structure](#project-structure-)
+- [OOP Concepts](#oop-concepts-)
+- [OOP Lessons Learned](#oop-lessons-learned-)
+- [Prerequisites](#prerequisites-)
+- [Setup](#setup-)
+- [How to Run](#how-to-run-)
+- [Usage](#usage-)
+- [Group Members](#group-members-)
+- [License](#license-)
 
 ## Overview ✨
 
@@ -179,8 +179,8 @@ Current balance: $1000.0
 - Mesay Mesfin - ID: 655392-16
 - Yabsira Zenebe - ID: 469869-16
 
-**Instructor**: Fasika Abera (LinkedIn)
+**Instructor**: Fasika Abera
 
 ## License 📜
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
