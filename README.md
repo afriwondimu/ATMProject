@@ -1,6 +1,6 @@
 # Java ATM Interface 🏧
 
-A sleek console-based ATM Interface built in Java, simulating banking operations like PIN verification, balance checks, withdrawals, and deposits. This project, assigned by our instructor [**Fasika Abera**](https://www.linkedin.com/in/fasika-abera-204033188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), showcases Object-Oriented Programming (OOP) principles: encapsulation, inheritance, polymorphism, and abstraction. 🌟
+A console-based ATM Interface built in Java, simulating banking operations like PIN verification, balance checks, withdrawals, and deposits. This project, assigned by our instructor [**Fasika Abera**](https://www.linkedin.com/in/fasika-abera-204033188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), showcases Object-Oriented Programming (OOP) principles: encapsulation, inheritance, polymorphism, and abstraction. 🌟
 
 ## 📑 Table of Contents
 
